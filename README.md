@@ -1,6 +1,7 @@
 # Arduino_lite
 
 Some Basic Projects of Arduino
+
 Model 1-  A temp module on tinkercad which display the temp on an lcd along with contrast controls. Along with that  PIR sensor for home automation. So when the temp exceeds 65 degrees, fan connected to a motor turns on  and if the pir senses an object near it, buzzer turns on.
 
 Model 2- A DIP Switch SPST x6 in tinkercad to design a lock system. if unlocked shows the key else the screen should be blank. Apart from this it also connect an RGB led which remains red and turns green on unlocking.
